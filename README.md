@@ -4,6 +4,9 @@ Develop a map screen displaying a list of properties in New York City, similar t
 
 [Figma Designs](https://www.figma.com/design/jOHU3HUTOVb1K7AJBjfWsg/Lockhop-Coding-Test?node-id=7002-40123&t=Rmlnnv0hQgTkZqMs-0)
 
+![Simulator Screenshot - iPhone 15 - 2024-07-24 at 14 07 45](https://github.com/user-attachments/assets/02b2c549-5150-4094-be86-c90242ff2c63)
+
+
 ## Get started
 
 1. Install dependencies
